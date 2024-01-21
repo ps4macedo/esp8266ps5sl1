@@ -1,0 +1,11 @@
+{
+  "name": "PS5 Exploit 4.03/4.50/4.51 (etaHEN v1.4B)",
+  "version": "Superlight6",
+    "home_assistant_domain": "slim_player",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [{ "path": "esp8266ps5sl1.bin", "offset": 0 }]
+    }
+  ]
+}
